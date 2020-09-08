@@ -18,7 +18,7 @@ class Footer extends Component {
               {networks}
            </ul>
 
-            <span role ="img">Modified with love by the therajvikash ♥️</span>
+          <span role="img" aria-labelledby="jsx-a11y/accessible-emoji">Modified with love by the therajvikash ♥️</span>
 
            <ul className="copyright">
               <li>&copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker</li>
